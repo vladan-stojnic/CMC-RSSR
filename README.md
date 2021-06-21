@@ -12,7 +12,7 @@ Pre-trained CMC models trained in our papaer are available [here](https://drive.
 
 Trained linear classifiers are available [here](https://drive.google.com/drive/folders/16xARD3DFJHAkfL6Py3QTuQaLkX9FNudO?usp=sharing).
 
-Finetuned CMC models for our downstream tasks are available [here](https://drive.google.com/drive/folders/1RNLJjI2UsG_rCd3BrfUKf6m1hKeJg1gH?usp=sharing). **Currently without finetuned models for So2Sat dataset. Will be available soon...**
+Finetuned CMC models for our downstream tasks are available [here](https://drive.google.com/drive/folders/1RNLJjI2UsG_rCd3BrfUKf6m1hKeJg1gH?usp=sharing).
 
 We don't provide pre-trained CMC models on the whole ImageNet as they are available on the official CMC implementation.
 
