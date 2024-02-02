@@ -8,11 +8,11 @@ To run the code please create Anaconda environment using dependancies defined in
 
 # Models
 
-Pre-trained CMC models trained in our papaer are available [here](https://drive.google.com/drive/folders/1C3Ov4aWDlSGgcdzJ_rJht6961bCerZMO?usp=sharing).
+Pre-trained CMC models trained in our papaer are available [here](https://www.icloud.com/iclouddrive/05aWsELcprKFwmNnxGti-aaPQ#CMC%5Fmodels.tar).
 
-Trained linear classifiers are available [here](https://drive.google.com/drive/folders/16xARD3DFJHAkfL6Py3QTuQaLkX9FNudO?usp=sharing).
+Trained linear classifiers are available [here](https://www.icloud.com/iclouddrive/040wMl1IAo9pW6qsv9QWnKeuA#linear%5Fmodels).
 
-Finetuned CMC models for our downstream tasks are available [here](https://drive.google.com/drive/folders/1RNLJjI2UsG_rCd3BrfUKf6m1hKeJg1gH?usp=sharing).
+Finetuned CMC models for our downstream tasks are available [here](https://www.icloud.com/iclouddrive/039f0BRZ3buQdtRR2gbbB02Hw#finetuning%5Fmodels).
 
 We don't provide pre-trained CMC models on the whole ImageNet as they are available on the official CMC implementation.
 
